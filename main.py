@@ -3,7 +3,7 @@ import json
 import requests
 from gtts import gTTS
 
-API_KEY = "AQ.Ab8RN6JFdPI12k-bC1ZpLyfYkTpMTo0HNF0_PNScTuGFIcYaTQ"
+API_KEY = "AQ.Ab8RN6IHCCyiTalx8ANvj1Yid6vD_6mW8GeWw_aliX7T9z1wcw"
 # නවතම Gemini 3.8 Flash API Endpoint එක වෙත යාවත්කාලීන කරන ලදී
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent?key={API_KEY}"
 
